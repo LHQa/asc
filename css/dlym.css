@@ -1,0 +1,61 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 1220px;
+	height: 780px;
+	margin: auto;
+	background-color: aliceblue;
+}
+.dljm{
+	width: 1000px;
+	height: 657px;
+	background-image: url(../img/登录界面1.jpeg);
+	margin: auto;
+}
+.ym{
+	font-size: 100px;
+	position: relative;
+	top: 100px;
+	text-align: center;
+	font-family: "华文彩云";
+	color: #46bcd3;
+}
+.zh{
+	width: 180px;
+	height: 30px;
+	border-right: none;
+	border-radius: 4px;
+	position: relative;
+	left: 400px;
+	top: 220px;
+	color: #87c391;
+}
+.mm{
+	width: 180px;
+	height: 30px;
+	border-right: none;
+	border-radius: 4px;
+	position: relative;
+	left: 400px;
+	top: 240px;
+	color: #58bcad;
+}
+.dl{
+	background-image: url(../img/fe17f85cc615203eb6d3b4f21a97f43d.jpeg);
+}
+.dl1{
+	width: 100px;
+	height: 40px;
+	border-right: none;
+	border-radius: 6px;
+	position: relative;
+	top: 300px;
+	left: 430px;
+	
+	text-align: center;
+}
+a{
+	color:#769482;
+}

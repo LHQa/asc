@@ -1,0 +1,82 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.container{
+	width: 1440px;
+	margin: auto;
+	height: auto;
+	background-color: #Fff;
+	
+}
+.head{
+	width: 1440px;
+	height: 82px;
+	background-image: url(../img/主页111.jpeg);
+}
+a{
+	color: #ffd700;
+}
+nav>ul>li{
+	float: left;
+	font-size: 20px;
+	margin: 35px;
+}
+input{
+	width: 180px;
+	height: 30px;
+	border-right: none;
+	border-radius: 4px;
+	position: relative;
+	left: 50px;
+	top: 30px;
+	color: #87c391;
+}
+.ss{
+	position: relative;
+	left: 60px;
+}
+
+.item{
+	width: 700px;	
+	padding: 1px 10px 10px 10px;
+	float: left;
+}
+.item>h1{
+	text-align: center;
+	background-color: #47616b;
+}
+.item>h3{
+	font-size: 30px;
+	color: #deb0ba ;
+}
+.item>p{
+	font-size: 20px;
+	font-family: "微软雅黑";
+	color: #627579;
+}
+.nr{
+	text-align: center;
+	
+}
+.overtwo{
+	color: #47616B;
+	text-align: center;
+	
+}
+footer{
+	float: left;
+	width: 1440px;
+	background-color: #2d2d2d;
+	color: white;
+	font-family: "宋体";
+	text-align: center;
+	padding-top:20px;
+	padding-bottom: 30px;
+}
+footer>p{
+	font-size: 40px;
+	padding-bottom: 5px;
+}
+
